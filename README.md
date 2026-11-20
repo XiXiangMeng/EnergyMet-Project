@@ -68,5 +68,4 @@ Damage-only reports must not be interpreted as measured zero wind speeds. Estima
 
 Full uncertainty assessment: **not yet complete**.
 
-## AI assistance
-ChatGPT assisted with the initial repository structure, documentation, and Python script. Scientific interpretation and final validation: **not yet complete**.
+
